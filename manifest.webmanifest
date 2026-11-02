@@ -1,0 +1,19 @@
+{
+  "name": "词刻 · 四六级随手背",
+  "short_name": "词刻",
+  "description": "覆盖大学英语四级、六级考纲词汇的四选一背单词应用",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f6f2",
+  "theme_color": "#0d6b61",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
